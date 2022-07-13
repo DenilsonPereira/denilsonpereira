@@ -1,7 +1,7 @@
 ## Olá eu sou o Denilson Pereira, estudante de desenvolvimento web front-end e back-end ! 👋
 <div align="center">
   <a href="https://github.com/denilsonpereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira/&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpereira&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
