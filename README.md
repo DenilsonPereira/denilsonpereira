@@ -1,7 +1,7 @@
 ## Olá eu sou o Denilson Pereira, estudante de desenvolvimento web front-end e Ux Design!<br>Buscando sempre me qualificar para conseguir minha primeira oportunidade na área👋
 <div align="center">
   <a href="https://github.com/denilsonpereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira&show_icons=true&theme=radical&include_all_commits=false&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpereira&langs_count=7&&layout=compact&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
