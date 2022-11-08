@@ -1,14 +1,15 @@
-## Olá eu sou o Denilson Pereira, estudante de desenvolvimento web front-end e Ux Design!<br>Buscando sempre me qualificar para conseguir minha primeira oportunidade na área👋
+## Olá eu sou o Denilson Pereira, estudante de desenvolvimento web full stack!<br>Buscando sempre me qualificar para conseguir minha primeira oportunidade na área👋
 <div align="center">
   <a href="https://github.com/denilsonpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira&show_icons=true&theme=radical&include_all_commits=false&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonpereira&langs_count=7&&layout=compact&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Denilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Denilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Denilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Denilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
   
 ##
