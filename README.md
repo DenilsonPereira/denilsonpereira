@@ -1,4 +1,4 @@
-## Olá eu sou o Denilson Pereira, estudante de desenvolvimento web full stack!<br>Buscando sempre me qualificar para conseguir minha primeira oportunidade na área👋
+## Olá eu sou Denilson Pereira, estudante de desenvolvimento web full stack!<br>Em busca da minha primeira oportunidade na área 😄
 <div align="center">
   <a href="https://github.com/denilsonpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilsonpereira&show_icons=true&theme=radical&include_all_commits=false&count_private=true">
